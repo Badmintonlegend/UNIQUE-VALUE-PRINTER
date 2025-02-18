@@ -1,0 +1,29 @@
+input {
+    width: 80%;
+    padding: 8px;
+    font-size: 1rem;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #6a1b9a;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #4a0072;
+  }
+  
+  #result {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    color: #333;
+  }
